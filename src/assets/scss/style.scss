@@ -1,0 +1,158 @@
+@font-face {
+	font-family: 'ExtraBold_Italic';
+	src: url('../../fonts/ExtraBold_Italic.woff2') format('woff2');
+	src: url('../../fonts/ExtraBold_Italic.woff') format('woff');
+	src: url('../../fonts/ExtraBold_Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Bold_Italic';
+	src: url('../../fonts/Bold_Italic.woff2') format('woff2');
+	src: url('../../fonts/Bold_Italic.woff') format('woff');
+	src: url('../../fonts/Bold_Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Regular_ Italic';
+	src: url('../../fonts/Regular_ Italic.woff2') format('woff2');
+	src: url('../../fonts/Regular_ Italic.woff') format('woff');
+	src: url('../../fonts/Regular_ Italic.ttf') format('truetype');
+}
+
+body {
+	font-size: 10px;
+	margin: 0px;
+	padding: 0px;
+	img {
+		max-width: 100%;
+	}
+	header {
+		position: relative;
+		display: flex;
+		left: 50%;
+		transform: translate(-50%);
+		width: 100%;
+		margin-top: 40px;
+
+		padding: 0px 0px 70px 0px;
+		z-index: 2;
+		background-color: #fff;
+		.logo {
+			display: flex;
+			height: 30px;
+			width: 161px;
+			justify-content: space-around;
+			position: relative;
+			margin: 0 0px 0px 5%;
+			.circle-logo {
+				position: relative;
+				height: 26px;
+				width: 25px;
+				border-radius: 50%;
+				background-color: #f94f4f;
+
+				span {
+					display: block;
+					color: #fff;
+					position: absolute;
+					font-family: 'ExtraBold_Italic';
+					font-size: 3.8em;
+					left: 6px;
+					top: -13px;
+				}
+			}
+			.creative {
+				position: relative;
+				height: 25px;
+				width: 122px;
+				span {
+					position: absolute;
+					top: -8px;
+					left: 5px;
+					font-family: 'ExtraBold_Italic';
+					font-size: 3em;
+				}
+			}
+		}
+
+		.no-collapse-navbar {
+			flex: 1;
+
+			width: 100%;
+
+			ul {
+				display: none;
+				li {
+				}
+			}
+		}
+		.hambourger {
+			display: flex;
+			flex-direction: column;
+			height: 30px;
+			width: 24px;
+			justify-content: space-evenly;
+			margin: 0 5% 0px 0px;
+			div {
+				height: 2px;
+				width: 100%;
+				background-color: #979797;
+			}
+		}
+	}
+	.part-one {
+		position: relative;
+		top: -15px;
+		.image-one {
+			img {
+			}
+		}
+
+		.text-one {
+			padding: 0% 5% 50px 5%;
+			width: 90%;
+			font-family: 'ExtraBold_Italic';
+			h1 {
+				height: 129px;
+				font-size: 4em;
+			}
+			p {
+				height: 100px;
+
+				line-height: 25px;
+				font-family: 'Regular_ Italic';
+				font-size: 1.5em;
+			}
+			button {
+				height: 72px;
+				width: 177px;
+				margin-top: 20px;
+				border: none;
+				outline: none;
+				font-family: inherit;
+				text-decoration: none;
+				font-size: 1.8em;
+				background-color: #f94f4f;
+				color: #fff;
+			}
+		}
+	}
+	.part-two {
+		position: relative;
+
+		span {
+			font-family: 'ExtraBold_Italic';
+			font-size: 4em;
+
+			.text-part-two {
+			}
+			.schedule-two {
+			}
+		}
+	}
+	.part-three {
+	}
+	.part-four {
+	}
+	footer {
+	}
+}

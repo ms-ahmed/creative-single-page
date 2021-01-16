@@ -29,7 +29,7 @@
 				</div>
 			</div>
 			<nav class="collapse-navbar">
-				<div class="collapse-navbar-item">
+				<div id="collapse-navbar-item" class="collapse-navbar-item">
 					<ul>
 						<li>About</li>
 						<li>Service</li>
@@ -114,18 +114,31 @@
 			<div class="slide-container">
 				<div class="slide-one">
 					<div class="img-div">
-						<img src="./assets/images/image-section-four-slide-one.png" />
+						<img id="img-one" class="image-slider" src="./assets/images/image-section-four-slide-one.png" />
+						<img id="img-two" class="image-slider" src="./assets/images/image-section-four-slide-two.png" />
+						<img
+							id="img-three"
+							class="image-slider"
+							src="./assets/images/image-section-four-slide-three.png"
+						/>
 						<div class="container-span-p4">
-							<span class="text-p4">Lear Product Roadmap</span>
-							<span class="date-p4">2019 Project</span>
+							<span class="text-span text-p4">Lear Product Roadmap</span>
+							<span class="date-span date-p4">2019 Project</span>
+							<span class="text-span text-p4">New Magestic Hotel</span>
+							<span class="date-span date-p4">2018 Project</span>
+							<span class="text-span text-p4">Crypto Dashboard</span>
+							<span class="date-span date-p4">2016 Project</span>
 						</div>
 					</div>
 					<div class="black-div">
 						<div class="container-p4">
-							<h2>Brand naming & guidelines</h2>
+							<h2 class="title-black-div">Brand naming & guidelines</h2>
+							<h2 class="title-black-div">Brand identity & marchandise</h2>
+							<h2 class="title-black-div">Brand identity & website</h2>
+
 							<div class="buttons">
-								<div class="button-p4 button-left"></div>
-								<div class="button-p4 button-right"></div>
+								<div onclick="plusSlides(-1)" class="button-p4 button-left"></div>
+								<div onclick="plusSlides(1)" class="button-p4 button-right"></div>
 							</div>
 						</div>
 						<div class="logo">

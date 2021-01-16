@@ -35,12 +35,7 @@ function reload(done) {
 }
 
 function jsTask() {
-	return gulp
-		.src(JS_SRC)
-		.pipe(sourcemaps.init())
-		.pipe(gulp.dest(JS_DEST))
-
-		.pipe(browserSync.stream());
+	return gulp.src(JS_SRC).pipe(uglify()).pipe(gulp.dest(JS_DEST)).pipe(browserSync.stream());
 }
 
 //compile sass
@@ -55,14 +50,11 @@ function style() {
 		.pipe(gulp.dest(STYLE_DEST))
 		.pipe(browserSync.stream());
 }
-/* const mimImages =() =>{
-} */
 function watch() {
 	gulp.watch(STYLE_SRC, gulp.series(style, reload));
 	gulp.watch(JS_SRC, gulp.series(jsTask, reload));
 	gulp.watch('src/*.html', reload);
 }
-
 //Compiling & Moving stylesheets & Scripts
 var files = gulp.parallel(style, jsTask);
 //Building task

@@ -28,18 +28,22 @@
 					<span>creative</span>
 				</div>
 			</div>
-			<nav class="no-collapse-navbar">
-				<ul>
-					<li>About</li>
-					<li>Service</li>
-					<li>Projects</li>
-					<li>Schedule a Call</li>
-				</ul>
+			<nav class="collapse-navbar">
+				<div class="collapse-navbar-item">
+					<ul>
+						<li>About</li>
+						<li>Service</li>
+						<li>Projects</li>
+						<li>
+							<span class="schedule-navbar">Schedule a Call</span>
+						</li>
+					</ul>
+				</div>
 			</nav>
 			<div class="hambourger">
-				<div></div>
-				<div></div>
-				<div></div>
+				<div id="crossline-one" class="hambourger-item"></div>
+				<div id="crossline-two" class="hambourger-item"></div>
+				<div class="hambourger-item"></div>
 			</div>
 		</header>
 		<section class="part-one">
@@ -111,14 +115,18 @@
 				<div class="slide-one">
 					<div class="img-div">
 						<img src="./assets/images/image-section-four-slide-one.png" />
-						<span>Lear Product Roadmap</span>
-						<span>2019 Project</span>
+						<div class="container-span-p4">
+							<span class="text-p4">Lear Product Roadmap</span>
+							<span class="date-p4">2019 Project</span>
+						</div>
 					</div>
 					<div class="black-div">
-						<h2>Brand naming & guidelines</h2>
-						<div class="buttons">
-							<div class="button-left"></div>
-							<div class="button-right"></div>
+						<div class="container-p4">
+							<h2>Brand naming & guidelines</h2>
+							<div class="buttons">
+								<div class="button-p4 button-left"></div>
+								<div class="button-p4 button-right"></div>
+							</div>
 						</div>
 						<div class="logo">
 							<span>~</span>
@@ -162,11 +170,13 @@
 			</div>
 		</section>
 		<footer>
-			<h2>Let's build something great together.</h2>
-			<div class="schedule-footer">
-				<span>Schedule a Call</span>
+			<div class="footer-content">
+				<h2>Let's build something great together.</h2>
+				<div class="schedule-footer">
+					<span>Schedule a Call</span>
+				</div>
 			</div>
 		</footer>
-		<script src="./assets/production/js/index.js"></script>
+		<script src="./assets/production/js/index.js" async defer></script>
 	</body>
 </html>

@@ -1,1 +1,1 @@
-
+const hambourgerAnimation=()=>{const e=document.querySelector(".hambourger");var o=document.querySelectorAll(".hambourger-item");const r=document.querySelector("#crossline-one"),s=document.querySelector("#crossline-two");e.addEventListener("mouseover",e=>{Array.from(o).forEach(e=>{e.style.display="none"}),s.style.display="block",r.style.display="block",r.classList.add("before"),s.classList.add("after")}),e.addEventListener("mouseout",e=>{r.classList.remove("before"),s.classList.remove("after"),Array.from(o).forEach(e=>{e.style.display="block"})})};hambourgerAnimation();

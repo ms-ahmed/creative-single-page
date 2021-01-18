@@ -5,6 +5,7 @@ const hambourgerAnimation = () => {
 	const crossLineTwo = document.querySelector('#crossline-two');
 	const collapseNavbar = document.querySelector('.collapse-navbar-item');
 	collapseNavbar.style.display = 'none';
+
 	hambourger.addEventListener('mouseover', (e) => {
 		Array.from(hambourgerItem).forEach((e) => {
 			e.style.display = 'none';
@@ -25,9 +26,13 @@ const hambourgerAnimation = () => {
 		});
 	});
 };
-hambourgerAnimation();
+window.addEventListener('resize', function () {
+	if (window.matchMedia('(max-width: 768px)').matches) {
+		hambourgerAnimation();
+	}
+});
 
-/////////>>>Slides
+/////////>>>Slides  https://stackoverflow.com/questions/31221601/js-if-window-height-is-less-than-px-do-something-what-is-wrong-with-this
 var slideIndex = 1;
 showSlides(slideIndex);
 

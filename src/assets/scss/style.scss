@@ -40,7 +40,6 @@ body {
 	margin: 0px;
 	padding: 0px;
 	height: 2000px;
-	//height: 3250px;
 	img {
 		max-width: 100%;
 	}
@@ -83,6 +82,8 @@ body {
 				position: relative;
 				height: 25px;
 				width: 122px;
+				text-shadow: 1px 1px 0px rgba(20, 20, 20, 0.5), 0 4px 3px rgba(20, 20, 20, 0.7),
+					0 0 0 rgba(20, 20, 20, 1);
 				span {
 					position: absolute;
 					top: -8px;
@@ -159,26 +160,7 @@ body {
 
 				background-color: #979797;
 			}
-			/* 		&::before {
-				content: '';
-				position: absolute;
-				top: 48%;
-				transform: translateY(-48%) rotate(225deg);
-				height: 2px;
-				width: 100%;
 
-				background-color: #979797;
-			}
-			&::after {
-				content: '';
-				position: absolute;
-				top: 48%;
-				transform: translateY(-48%) rotate(130deg);
-				height: 2px;
-				width: 100%;
-
-				background-color: #979797;
-			} */
 			.hambourger-item {
 				height: 2px;
 				width: 100%;
@@ -607,9 +589,8 @@ body {
 				p {
 					width: 398px;
 					font-size: 1.5em;
-					line-height: 22px;
+					line-height: 30px;
 					margin: 25px 0px 10px 0px;
-
 					height: 80px;
 				}
 				&::before {
@@ -644,7 +625,7 @@ body {
 				p {
 				}
 				button {
-					margin: 0px;
+					margin-top: 30px;
 					width: 177px;
 					height: 72px;
 				}
@@ -653,17 +634,18 @@ body {
 		.part-two {
 			display: flex;
 			height: 658px;
+
 			img {
-				width: 50%;
-				transform: scale(1.6, 1) translate(-45px, 55px);
+				width: 52%;
+				transform: scale(1.9, 1) translate(-25px, 45px);
 			}
 			.text-part-two {
 				position: absolute;
 				top: 80px;
 				right: 0%;
 				height: 578px;
-				width: 390px;
-				padding-bottom: 0px;
+				width: 51%;
+				padding: 0px;
 
 				.logo-title {
 					position: relative;
@@ -672,7 +654,7 @@ body {
 					.logo {
 						position: absolute;
 						top: -40px;
-						left: -70px;
+						left: -37px;
 					}
 				}
 
@@ -691,6 +673,7 @@ body {
 				.schedule-two {
 					padding-top: 40px;
 					padding-left: 50px;
+
 					div {
 					}
 				}
@@ -707,21 +690,25 @@ body {
 
 				h2 {
 					color: #000;
-					width: 35%;
+					width: 41%;
 				}
 				.text-num {
+					position: relative;
 					top: -100px;
+					right: 0px;
 					height: 797px;
+					width: 59%;
 					background-color: #f94f4f;
 					span {
 					}
 					.titles-part-3 {
+						left: 41px;
 					}
 					.text-p3 {
 					}
 					.container {
-						width: 90%;
-						padding: 0px 5% 0px 5%;
+						width: 78%;
+						padding: 0px 11% 0px 11%;
 					}
 					.part-one-p3 {
 						margin-top: 80px;
@@ -756,7 +743,7 @@ body {
 					.img-div {
 						position: absolute;
 						right: 0px;
-						width: 67%;
+						width: 57%;
 						&::before {
 							content: '';
 							position: absolute;
@@ -770,6 +757,8 @@ body {
 						span {
 						}
 						.container-span-p4 {
+							left: 55%;
+							bottom: 31px;
 							.text-p4 {
 							}
 							.date-p4 {
@@ -779,24 +768,39 @@ body {
 						img {
 							height: 472px;
 						}
+						#img-one {
+							transform: scale(1.5, 1) translate(-30px, 0px);
+						}
+
 						#img-two {
-							transform: scale(1.6, 1) rotate(183deg) translate(25px, 5px);
+							transform: scale(1.6, 1) rotate(183deg) translate(25px, -10px);
+						}
+						#img-three {
+							transform: scale(1.9) translate(-25px, 0px);
 						}
 					}
 
 					.black-div {
-						width: 45%;
+						width: 51%;
 						height: 352px;
 						&::before {
 							display: none;
 							content: '';
 						}
 						.logo {
+							display: block;
+							position: absolute;
+							top: 55px;
+							right: -30px;
+							font-size: 13em;
 						}
 						.container-p4 {
 							h2 {
+								margin-top: 100px;
+								margin-left: 10%;
 							}
 							.buttons {
+								margin-left: 10%;
 								.button-p4 {
 								}
 								.button-left {
@@ -824,6 +828,7 @@ body {
 		footer {
 			top: -150px;
 			.footer-content {
+				display: flex;
 				h2 {
 				}
 				.schedule-footer {

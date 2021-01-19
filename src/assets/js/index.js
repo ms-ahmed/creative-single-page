@@ -26,6 +26,7 @@ const hambourgerAnimation = () => {
 		});
 	});
 };
+
 window.addEventListener('resize', function () {
 	if (window.matchMedia('(max-width: 768px)').matches) {
 		hambourgerAnimation();

@@ -33,7 +33,6 @@ window.addEventListener('resize', function () {
 	}
 });
 
-/////////>>>Slides  https://stackoverflow.com/questions/31221601/js-if-window-height-is-less-than-px-do-something-what-is-wrong-with-this
 var slideIndex = 1;
 showSlides(slideIndex);
 

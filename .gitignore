@@ -6,4 +6,12 @@ node_modules
 
 .DS_Store
 
+.user.json
+
+.document.json
+
 package-lock.json
+
+meta.json
+
+.README_.md

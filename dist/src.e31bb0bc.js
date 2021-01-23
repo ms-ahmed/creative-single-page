@@ -121,15 +121,15 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 var hambourgerAnimation = function hambourgerAnimation() {
   var e = document.querySelector(".hambourger");
   var s = document.querySelectorAll(".hambourger-item");
-  var l = document.querySelector("#crossline-one"),
-      t = document.querySelector("#crossline-two"),
+  var t = document.querySelector("#crossline-one"),
+      l = document.querySelector("#crossline-two"),
       n = document.querySelector(".collapse-navbar-item");
   n.style.display = "none", e.addEventListener("mouseover", function (e) {
     Array.from(s).forEach(function (e) {
       e.style.display = "none";
-    }), t.style.display = "block", l.style.display = "block", l.classList.add("before"), t.classList.add("after"), n.style.display = "block";
+    }), l.style.display = "block", t.style.display = "block", t.classList.add("before"), l.classList.add("after"), n.style.display = "block";
   }), e.addEventListener("mouseout", function (e) {
-    l.classList.remove("before"), t.classList.remove("after"), n.classList.remove("collapse-navbar-display-block"), n.style.display = "none", Array.from(s).forEach(function (e) {
+    t.classList.remove("before"), l.classList.remove("after"), n.classList.remove("collapse-navbar-display-block"), n.style.display = "none", Array.from(s).forEach(function (e) {
       e.style.display = "block";
     });
   });
@@ -144,25 +144,33 @@ function plusSlides(e) {
   showSlides(slideIndex += e);
 }
 
+showSlides(slideIndex);
+var buttonLeft = document.querySelector("#left"),
+    buttonRight = document.querySelector("#right");
+
 function currentSlide(e) {
   showSlides(slideIndex = e);
 }
 
 function showSlides(e) {
   var s;
-  var l = document.getElementsByClassName("image-slider"),
-      t = document.getElementsByClassName("text-span"),
+  var t = document.getElementsByClassName("image-slider"),
+      l = document.getElementsByClassName("text-span"),
       n = document.getElementsByClassName("date-span"),
       o = document.getElementsByClassName("title-black-div");
 
-  for (e > l.length && (slideIndex = 1), e < 1 && (slideIndex = l.length), s = 0; s < l.length; s++) {
-    l[s].style.display = "none", n[s].style.display = "none", t[s].style.display = "none", o[s].style.display = "none";
+  for (e > t.length && (slideIndex = 1), e < 1 && (slideIndex = t.length), s = 0; s < t.length; s++) {
+    t[s].style.display = "none", n[s].style.display = "none", l[s].style.display = "none", o[s].style.display = "none";
   }
 
-  l[slideIndex - 1].style.display = "block", t[slideIndex - 1].style.display = "block", n[slideIndex - 1].style.display = "block", o[slideIndex - 1].style.display = "block";
+  t[slideIndex - 1].style.display = "block", l[slideIndex - 1].style.display = "block", n[slideIndex - 1].style.display = "block", o[slideIndex - 1].style.display = "block";
 }
 
-showSlides(slideIndex);
+buttonLeft.addEventListener("click", function (e) {
+  plusSlides(-1);
+}), buttonRight.addEventListener("click", function (e) {
+  plusSlides(1);
+});
 },{}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -191,7 +199,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "46203" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "33189" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

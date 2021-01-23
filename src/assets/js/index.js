@@ -39,7 +39,15 @@ showSlides(slideIndex);
 function plusSlides(n) {
 	showSlides((slideIndex += n));
 }
+const buttonLeft = document.querySelector('#left');
+const buttonRight = document.querySelector('#right');
+buttonLeft.addEventListener('click', (e) => {
+	plusSlides(-1);
+});
 
+buttonRight.addEventListener('click', (e) => {
+	plusSlides(1);
+});
 function currentSlide(n) {
 	showSlides((slideIndex = n));
 }

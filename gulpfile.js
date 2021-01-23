@@ -60,11 +60,13 @@ function watch() {
 	gulp.watch('src/*.html', reload);
 }
 function image() {
-	return gulp
-		.src(IMG_SRC)
-		.pipe(minify({ noSource: true }))
-		.pipe(zip('archive.zip'))
-		.pipe(gulp.dest(IMG_DEST));
+	return (
+		gulp
+			.src(IMG_SRC)
+			.pipe(minify({ noSource: true }))
+			/* .pipe(zip('archive.zip')) */
+			.pipe(gulp.dest(IMG_DEST))
+	);
 }
 
 //Compiling & Moving stylesheets & Scripts

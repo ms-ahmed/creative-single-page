@@ -4,7 +4,7 @@ const hambourgerAnimation = () => {
 	const crossLineOne = document.querySelector('#crossline-one');
 	const crossLineTwo = document.querySelector('#crossline-two');
 	const collapseNavbar = document.querySelector('.collapse-navbar-item');
-
+	const body = document.querySelector('#body');
 	/*
 	 */
 	new ResizeObserver(() => {
@@ -15,7 +15,7 @@ const hambourgerAnimation = () => {
 			collapseNavbar.style.display = 'none';
 		}
 	}).observe(header);
-	hambourger.addEventListener('mouseover', (e) => {
+	hambourger.addEventListener('click', (e) => {
 		Array.from(hambourgerItem).forEach((e) => {
 			e.style.display = 'none';
 		});
@@ -25,7 +25,7 @@ const hambourgerAnimation = () => {
 		crossLineTwo.classList.add('after');
 		collapseNavbar.style.display = 'block';
 	});
-	hambourger.addEventListener('mouseout', (e) => {
+	body.addEventListener('mouseup', (e) => {
 		crossLineOne.classList.remove('before');
 		crossLineTwo.classList.remove('after');
 		collapseNavbar.style.display = 'none';

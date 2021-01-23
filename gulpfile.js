@@ -16,7 +16,7 @@ const gulp = require('gulp'),
 	STYLE_SRC = 'src/assets/scss/*.scss',
 	STYLE_DEST = 'src/';
 // The server function called later
-function serve(done) {
+/* function serve(done) {
 	browserSync.init({
 		server: {
 			baseDir: './src',
@@ -26,7 +26,7 @@ function serve(done) {
 		// open: false,
 	});
 	done();
-}
+} */
 
 //The server function to reload
 function reload(done) {
@@ -58,6 +58,7 @@ function watch() {
 //Compiling & Moving stylesheets & Scripts
 var files = gulp.parallel(style, jsTask);
 //Building task
-var build = gulp.series(files, gulp.parallel(serve, watch));
+//var build = gulp.series(files, gulp.parallel(serve, watch));
+var build = gulp.series(files, gulp.parallel(watch));
 gulp.task(build);
 gulp.task('default', build);

@@ -96,6 +96,7 @@ body {
 			.collapse-navbar-display-block {
 			}
 			.collapse-navbar-item {
+				display: none;
 				position: absolute;
 				top: 100px;
 				left: -88px;
@@ -529,6 +530,7 @@ body {
 				.collapse-navbar-display-block {
 				}
 				.collapse-navbar-item {
+					display: block;
 					height: 178px;
 					width: 75%;
 					top: -50px;

@@ -22,4 +22,6 @@ Here I use it to :
 
         the files).
 
+If you ever need to test the responsivness, please select actual devices, like Moto G4 or Galaxy5 and so on, because the Javascript needs to
+
 You can see the final result :

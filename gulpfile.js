@@ -11,11 +11,15 @@ const gulp = require('gulp'),
 	changed = require('gulp-changed'),
 	uglify = require('gulp-uglify'),
 	lineec = require('gulp-line-ending-corrector'),
+	zip = require('gulp-zip'),
+	minify = require('gulp-minify'),
 	JS_SRC = 'src/assets/js/*.js',
 	JS_DEST = 'src/',
 	STYLE_SRC = 'src/assets/scss/*.scss',
-	STYLE_DEST = 'src/';
-// The server function called later
+	STYLE_DEST = 'src/',
+	IMG_SRC = './src/assets/images/*',
+	IMG_DEST = './src/assets/min-image';
+// The server function called later;
 /* function serve(done) {
 	browserSync.init({
 		server: {
@@ -55,6 +59,14 @@ function watch() {
 	gulp.watch(JS_SRC, gulp.series(jsTask, reload));
 	gulp.watch('src/*.html', reload);
 }
+function image() {
+	return gulp
+		.src(IMG_SRC)
+		.pipe(minify({ noSource: true }))
+		.pipe(zip('archive.zip'))
+		.pipe(gulp.dest(IMG_DEST));
+}
+
 //Compiling & Moving stylesheets & Scripts
 var files = gulp.parallel(style, jsTask);
 //Building task
@@ -62,3 +74,4 @@ var files = gulp.parallel(style, jsTask);
 var build = gulp.series(files, gulp.parallel(watch));
 gulp.task(build);
 gulp.task('default', build);
+gulp.task('image', image);

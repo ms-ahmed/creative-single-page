@@ -1,18 +1,17 @@
+const hambourger = document.querySelector('.hambourger');
+const hambourgerItem = document.querySelectorAll('.hambourger-item');
+const crossLineOne = document.querySelector('#crossline-one');
+const crossLineTwo = document.querySelector('#crossline-two');
+const collapseNavbar = document.querySelector('.collapse-navbar-item');
+const hambourger_ = document.querySelector('.hambourger-');
 const hambourgerAnimation = () => {
-	const hambourger = document.querySelector('.hambourger');
-	const hambourgerItem = document.querySelectorAll('.hambourger-item');
-	const crossLineOne = document.querySelector('#crossline-one');
-	const crossLineTwo = document.querySelector('#crossline-two');
-	const collapseNavbar = document.querySelector('.collapse-navbar-item');
-	const body = document.querySelector('#body');
-	/*
-	 */
 	new ResizeObserver(() => {
 		if (header.clientWidth > 769) {
 			console.log(header.clientWidth);
 			collapseNavbar.style.display = 'block';
 		} else {
 			collapseNavbar.style.display = 'none';
+			hambourger_.style.display = 'none';
 		}
 	}).observe(header);
 	hambourger.addEventListener('click', (e) => {
@@ -24,11 +23,13 @@ const hambourgerAnimation = () => {
 		crossLineOne.classList.add('before');
 		crossLineTwo.classList.add('after');
 		collapseNavbar.style.display = 'block';
+		hambourger_.style.display = 'block';
 	});
-	body.addEventListener('mouseup', (e) => {
+	hambourger_.addEventListener('click', (e) => {
 		crossLineOne.classList.remove('before');
 		crossLineTwo.classList.remove('after');
 		collapseNavbar.style.display = 'none';
+		hambourger_.style.display = 'none';
 		const header = document.querySelector('#header');
 
 		Array.from(hambourgerItem).forEach((e) => {

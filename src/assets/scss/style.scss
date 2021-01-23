@@ -1,21 +1,15 @@
 @font-face {
 	font-family: 'ExtraBold_Italic';
-	src: url('../../fonts/ExtraBold_Italic.woff2') format('woff2');
-	src: url('../../fonts/ExtraBold_Italic.woff') format('woff');
-	src: url('../../fonts/ExtraBold_Italic.ttf') format('truetype');
+	src: url('./assets/fonts/ExtraBold_Italic.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Bold_Italic';
-	src: url('../../fonts/Bold_Italic.woff2') format('woff2');
-	src: url('../../fonts/Bold_Italic.woff') format('woff');
-	src: url('../../fonts/Bold_Italic.ttf') format('truetype');
+	src: url('./assets/fonts/Bold_Italic.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Regular_ Italic';
-	src: url('../../fonts/Regular_ Italic.woff2') format('woff2');
-	src: url('../../fonts/Regular_ Italic.woff') format('woff');
-	src: url('../../fonts/Regular_ Italic.ttf') format('truetype');
+	src: url('./assets/fonts/Regular_Italic.ttf') format('truetype');
 }
 @-webkit-keyframes fade {
 	from {

@@ -18,6 +18,8 @@ Here I use it to :
 
         Use preprocessors like Sass or LESS
 
-        Optimize assets like CSS, JavaScript, and images (by mimifying the size of the files).
+        Optimize assets like CSS, JavaScript, and images ( by mimifying the size of
+
+        the files).
 
 You can see the final result :

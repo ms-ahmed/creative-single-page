@@ -12,9 +12,9 @@ const gulp = require('gulp'),
 	uglify = require('gulp-uglify'),
 	lineec = require('gulp-line-ending-corrector'),
 	JS_SRC = 'src/assets/js/*.js',
-	JS_DEST = 'src/assets/production/js/',
+	JS_DEST = 'src/',
 	STYLE_SRC = 'src/assets/scss/*.scss',
-	STYLE_DEST = 'src/assets/production/css';
+	STYLE_DEST = 'src/';
 // The server function called later
 function serve(done) {
 	browserSync.init({

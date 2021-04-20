@@ -1,0 +1,6052 @@
+{
+	"0": {
+		"_class": "MSAttributedStringKey",
+		"size": "{92, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "01",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "866D64BF-E9D2-4772-8ED7-52E3BDDEE793"
+	},
+	"144": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 120}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Branding &\nwebsite design agency",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 32,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 40 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9FD9B25A-A904-40E6-B20B-4B5F6DD03C40"
+	},
+	"49": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "5E0B8D3B-398E-469F-9172-1A33C6A77AD1"
+	},
+	"98": {
+		"_class": "MSAttributedStringKey",
+		"size": "{31, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "RGB",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "3031D328-209C-47A4-A269-1B3365CBE7C3"
+	},
+	"3": {
+		"_class": "MSAttributedStringKey",
+		"size": "{540, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "We specialize in visual storytelling by creating cohesive brand and website design solutions for small businesses, giving lasting impressions to audiences in a digital world.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 174,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "D595C44B-75A1-4C3D-955E-98D99913FBF6"
+	},
+	"147": {
+		"_class": "MSAttributedStringKey",
+		"size": "{216, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Lean Product Roadmap",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 20,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "A72EC304-3D84-4638-96EF-F672C84A2C18"
+	},
+	"52": {
+		"_class": "MSAttributedStringKey",
+		"size": "{124, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "8327020D-760E-4ACA-9FE3-6B747FCA0518"
+	},
+	"101": {
+		"_class": "MSAttributedStringKey",
+		"size": "{52, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Default",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "156A478B-F775-415C-A84F-B19FF68BF69F"
+	},
+	"6": {
+		"_class": "MSAttributedStringKey",
+		"size": "{31, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "RGB",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "DD40D1DF-55ED-4BA0-8DA9-455A27A68E9B"
+	},
+	"150": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Strategy",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C3AC5F42-7372-497B-8B65-7D466A2C5DE2"
+	},
+	"55": {
+		"_class": "MSAttributedStringKey",
+		"size": "{104, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "2016 Project",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "3602E019-8147-448F-82EA-D81B12D11E13"
+	},
+	"104": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9D27DAF2-FE0B-4B2C-A3B0-0A23D124CAF9"
+	},
+	"9": {
+		"_class": "MSAttributedStringKey",
+		"size": "{46, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "About",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "8B82CD8E-F0AB-400D-868B-627F18DBBE07"
+	},
+	"153": {
+		"_class": "MSAttributedStringKey",
+		"size": "{333, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "H1 - Commissioner - Extra Bold - 80px - 88px line",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 49,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "77B5A4ED-1443-41CB-A810-0DC6D26E190F"
+	},
+	"58": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "240°, 14%, 11%",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "2DB5FDED-B360-4E73-8396-F5952EAA2B3A"
+	},
+	"107": {
+		"_class": "MSAttributedStringKey",
+		"size": "{86, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "#000000",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9366F906-65EC-48EE-877C-6C73D9A6D7DA"
+	},
+	"12": {
+		"_class": "MSAttributedStringKey",
+		"size": "{65, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Button 2",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "172C6C5A-C786-41D3-9E7B-7851651964C6"
+	},
+	"156": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 133}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand identity & web design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 27,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "88B65BC3-A233-48A0-8D0E-9869F17A9FB7"
+	},
+	"61": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 100}",
+		"string": {
+			"_class": "attributedString",
+			"string": "We specialize in visual storytelling by creating cohesive brand and website design solutions for small businesses, giving lasting impressions to audiences in a digital world.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 174,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "55C8F5A5-0555-48ED-A3BA-F7C965C9C641"
+	},
+	"110": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "4638CB0E-0ADB-47E2-92E1-0FB84A65D07F"
+	},
+	"15": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "0°, 0%, 0%",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "A92545DE-507D-435D-AE26-A3359DD8403F"
+	},
+	"64": {
+		"_class": "MSAttributedStringKey",
+		"size": "{339, 75}",
+		"string": {
+			"_class": "attributedString",
+			"string": "A beautifully crafted website is the best tool for brand awareness, and ultimately results in increased revenues.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 113,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "F0340A16-A1C1-4248-9B5F-EC7EB49C5E0D"
+	},
+	"113": {
+		"_class": "MSAttributedStringKey",
+		"size": "{74, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Button 3",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.5769566977896341,
+							"green": 0.5769566977896341,
+							"red": 1,
+							"swatchID": "09DEC48E-99C5-4DD8-8515-642F525E86B0"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "32A47C0D-24B6-4611-B707-1B2195113747"
+	},
+	"18": {
+		"_class": "MSAttributedStringKey",
+		"size": "{97, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Learn More",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "851CAC9B-C276-463B-B444-AB22988DEF47"
+	},
+	"67": {
+		"_class": "MSAttributedStringKey",
+		"size": "{92, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "01",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "387391B6-A7C1-46C4-ABCF-9DF2E6B0236A"
+	},
+	"116": {
+		"_class": "MSAttributedStringKey",
+		"size": "{103, 18}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "3FBBCD74-9B3D-4DA0-9037-7B6295798D32"
+	},
+	"21": {
+		"_class": "MSAttributedStringKey",
+		"size": "{162, 20}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Lean Product Roadmap",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 20,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 20,
+							"minimumLineHeight": 20,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1B248CBA-FE7F-4FE8-98CC-E50DE0F32006"
+	},
+	"70": {
+		"_class": "MSAttributedStringKey",
+		"size": "{311, 75}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Keeping the brand design unique and meaningful helps in communicating the brand’s value effectively.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 100,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "535A0F51-0CC6-47CF-849D-2F9BA473F554"
+	},
+	"119": {
+		"_class": "MSAttributedStringKey",
+		"size": "{398, 80}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Let's build something great together.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 37,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "455ABAB3-AE7A-4909-AF5A-1E9D8A1ABA94"
+	},
+	"24": {
+		"_class": "MSAttributedStringKey",
+		"size": "{216, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Lean Product Roadmap",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 20,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9ED0CE30-E670-4F9E-8ECC-66235D0D3FCD"
+	},
+	"73": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "3A802DAD-2357-407B-9F3C-8AB5DF380A6D"
+	},
+	"122": {
+		"_class": "MSAttributedStringKey",
+		"size": "{68, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Projects",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "5D4A1B8A-85AC-4687-ABAA-1BDE4D1E1748"
+	},
+	"27": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 128}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand identity & merchandise",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 28,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "98295EDC-4110-4695-AA4F-9F05F449EA2F"
+	},
+	"76": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Web Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "E4579439-3F4B-4DC4-B16A-523BF7C0D4D7"
+	},
+	"125": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 100}",
+		"string": {
+			"_class": "attributedString",
+			"string": "We specialize in visual storytelling by creating cohesive brand and website design solutions for small businesses, giving lasting impressions to audiences in a digital world.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 174,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "246B80F3-A2C3-4CB8-BE42-8E1B963F8DCA"
+	},
+	"30": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "25, 25, 33",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "D3F36F26-A7FA-4F7F-96F7-0B40B11E97F1"
+	},
+	"79": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 133}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand naming & guidelines",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 25,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "396F5FAA-758A-42CF-B10C-E4C409D97D3C"
+	},
+	"128": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Body - Commissioner - Regular - 18px - 32px line",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 48,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "D5A999AD-F450-4AD0-B398-7DA804431D30"
+	},
+	"33": {
+		"_class": "MSAttributedStringKey",
+		"size": "{104, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "2019 Project",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "770EAF2A-E85A-41EC-A23A-4C16709A50A5"
+	},
+	"82": {
+		"_class": "MSAttributedStringKey",
+		"size": "{398, 75}",
+		"string": {
+			"_class": "attributedString",
+			"string": "We specialize in visual storytelling by creating cohesive brand and website design solutions for small businesses, giving lasting impressions to audiences in a digital world.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 174,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "8FF18C13-6C36-4430-81A1-F62F32B970BF"
+	},
+	"131": {
+		"_class": "MSAttributedStringKey",
+		"size": "{42, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Hover",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "E5A1FBC9-79B6-4594-856D-705044DEC047"
+	},
+	"36": {
+		"_class": "MSAttributedStringKey",
+		"size": "{410, 133}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Design is strategic.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 6,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				},
+				{
+					"_class": "stringAttribute",
+					"location": 6,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "2D95CF7B-2507-4F62-AF4C-9612E83C0813"
+	},
+	"85": {
+		"_class": "MSAttributedStringKey",
+		"size": "{730, 273}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Branding &\nwebsite design agency",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 32,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "6D7FB24E-9F2E-40DC-826B-CB64534B7EC5"
+	},
+	"134": {
+		"_class": "MSAttributedStringKey",
+		"size": "{339, 75}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Keeping the brand design unique and meaningful helps in communicating the brand’s timeless value effectively. ",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 110,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7CFBC095-D584-4D88-8430-D50FC7894783"
+	},
+	"39": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Keeping the brand design unique and meaningful helps in communicating the brand’s timeless value effectively.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 109,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C37D6FE1-26A9-489E-A01D-8DB350657737"
+	},
+	"88": {
+		"_class": "MSAttributedStringKey",
+		"size": "{383, 64}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Design System",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 13,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1B57B613-E558-46A2-8964-BDFB0DD68C27"
+	},
+	"137": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 100}",
+		"string": {
+			"_class": "attributedString",
+			"string": "“A well-crafted design strategy consistently produces desired outcomes and brand awareness. We are firm believers that success lies in creative collaboration with our clients.”",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 176,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "45510CF0-600C-445D-A16E-76A82C6CF1A6"
+	},
+	"42": {
+		"_class": "MSAttributedStringKey",
+		"size": "{281, 80}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand naming & guidelines",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 25,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "550B2A1B-47C3-48D7-AB40-B02769A601A0"
+	},
+	"91": {
+		"_class": "MSAttributedStringKey",
+		"size": "{46, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "About",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "72FE61EE-3BFA-4EAF-A6A9-C42B4CB05400"
+	},
+	"140": {
+		"_class": "MSAttributedStringKey",
+		"size": "{100, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "02",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "BD134ADA-2ADD-435D-AE51-42C77CA040A9"
+	},
+	"45": {
+		"_class": "MSAttributedStringKey",
+		"size": "{540, 192}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Our approach for creating a winning brand",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 41,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9BCE0E3F-A17C-4BA5-8CF5-D4786CBC51B0"
+	},
+	"94": {
+		"_class": "MSAttributedStringKey",
+		"size": "{101, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "03",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C6FD6BA2-8F8E-4588-9179-DACED7B811E2"
+	},
+	"143": {
+		"_class": "MSAttributedStringKey",
+		"size": "{311, 75}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand strategy is critical for long-term success. Outshining competitors and capturing the target audience are key.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 115,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "3284A755-AEE3-4BAA-A38E-6ED7707D5F57"
+	},
+	"48": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 40}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Design is an approach.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 6,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				},
+				{
+					"_class": "stringAttribute",
+					"location": 6,
+					"length": 16,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "8FBB7A3D-4B05-4177-9A96-B93080F87D87"
+	},
+	"97": {
+		"_class": "MSAttributedStringKey",
+		"size": "{50, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Service",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1DB1A68C-428A-4C2B-8EC0-FE6DF9CB5975"
+	},
+	"2": {
+		"_class": "MSAttributedStringKey",
+		"size": "{52, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Default",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "2D27FF8D-3EBF-4539-A66A-43FA7C13F134"
+	},
+	"146": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7041220C-6D53-4158-8F0F-0C5AF798EBC5"
+	},
+	"51": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "89FB2086-A383-4189-9DF0-559C3D8D0210"
+	},
+	"100": {
+		"_class": "MSAttributedStringKey",
+		"size": "{540, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "We specialize in visual storytelling by creating cohesive brand and website design solutions for small businesses, giving lasting impressions to audiences in a digital world.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 174,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "4968C6BC-E2B1-4C00-8D31-EF97AC3FE1C9"
+	},
+	"5": {
+		"_class": "MSAttributedStringKey",
+		"size": "{86, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Text Black",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "AD96DAFE-7667-42F8-8923-8AE12519650B"
+	},
+	"149": {
+		"_class": "MSAttributedStringKey",
+		"size": "{306, 25}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "E91C95B7-E1CD-421E-B510-23FAF97BFA10"
+	},
+	"54": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "255, 255, 255",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 13,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "CAE18913-0AE2-43F5-A405-459CEA34F420"
+	},
+	"103": {
+		"_class": "MSAttributedStringKey",
+		"size": "{87, 20}",
+		"string": {
+			"_class": "attributedString",
+			"string": "2019 Project",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 20,
+							"minimumLineHeight": 20,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "A4A6A95C-7139-4156-AF8F-C33A2480B71F"
+	},
+	"8": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 128}",
+		"string": {
+			"_class": "attributedString",
+			"string": "“A well-crafted design strategy consistently produces desired outcomes and brand awareness. We are firm believers that success lies in creative collaboration with our clients.”",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 176,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "0E5DBA66-0562-46A7-9B70-58091A9298A6"
+	},
+	"152": {
+		"_class": "MSAttributedStringKey",
+		"size": "{104, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "2018 Project",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "FAB3C8E0-E9A5-40D5-957C-492E9135C98D"
+	},
+	"57": {
+		"_class": "MSAttributedStringKey",
+		"size": "{52, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Default",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "2283A8D0-913A-44F3-8BAE-0FF0A13CC17D"
+	},
+	"106": {
+		"_class": "MSAttributedStringKey",
+		"size": "{103, 18}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C220B544-76EA-437C-AF35-92162CACED0D"
+	},
+	"11": {
+		"_class": "MSAttributedStringKey",
+		"size": "{101, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "03",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "4F648405-074C-4FEF-88A6-C6D56E96DB33"
+	},
+	"155": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "0, 0, 0",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "B9EDF1CA-CF1E-4D9C-9D2D-4515FBE16540"
+	},
+	"60": {
+		"_class": "MSAttributedStringKey",
+		"size": "{72, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Button 1",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "F43F35DA-D22B-456D-B27B-F54C3A499335"
+	},
+	"109": {
+		"_class": "MSAttributedStringKey",
+		"size": "{100, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "02",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "BCE6D2E6-9601-4DDF-9817-6E4536BA567C"
+	},
+	"14": {
+		"_class": "MSAttributedStringKey",
+		"size": "{97, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Learn More",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "B315F41B-5C8A-4868-98AE-19C698872490"
+	},
+	"158": {
+		"_class": "MSAttributedStringKey",
+		"size": "{29, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "HSL",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "081E8930-C7DC-4545-A3DE-9848A0EDD796"
+	},
+	"63": {
+		"_class": "MSAttributedStringKey",
+		"size": "{51, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "White",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1B8FEE7F-85CD-4728-AEA1-79020F946895"
+	},
+	"112": {
+		"_class": "MSAttributedStringKey",
+		"size": "{334, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "H2 - Commissioner - Extra Bold - 56px - 64px line",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 49,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "ADE0FEC2-F237-48D9-AC50-4AE7D9904139"
+	},
+	"17": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Strategy",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "24335AF3-6B05-4E8A-B783-C391A4B38E85"
+	},
+	"66": {
+		"_class": "MSAttributedStringKey",
+		"size": "{78, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "#F94F4F",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9C19DFB4-25BB-438F-831D-6793643C48B0"
+	},
+	"115": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 100}",
+		"string": {
+			"_class": "attributedString",
+			"string": "“Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.”",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 177,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "6AAE945C-2408-43BD-A98B-F6D343137C19"
+	},
+	"20": {
+		"_class": "MSAttributedStringKey",
+		"size": "{334, 25}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Web Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7B243BEC-C316-404D-84EF-0B4065372032"
+	},
+	"69": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 80}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand naming & guidelines",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 25,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "992F5134-2295-42EA-ACC8-3D021A3E8BA0"
+	},
+	"118": {
+		"_class": "MSAttributedStringKey",
+		"size": "{540, 192}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Viverra non semper suscipit posuere a pede donec nec",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 52,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "555FD278-2140-4CD6-9934-022C4F82CD42"
+	},
+	"23": {
+		"_class": "MSAttributedStringKey",
+		"size": "{61, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Projects",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "5681996F-C825-45C2-94AE-F89694D80089"
+	},
+	"72": {
+		"_class": "MSAttributedStringKey",
+		"size": "{32, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Red",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C7B6607B-910B-4C23-9B6F-B1A4B578E98B"
+	},
+	"121": {
+		"_class": "MSAttributedStringKey",
+		"size": "{101, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "03",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "D47CB6E9-EF80-4F38-9397-C7A058926968"
+	},
+	"26": {
+		"_class": "MSAttributedStringKey",
+		"size": "{57, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Projects",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "B4CA2B0A-DA13-4E31-84F1-ECC67FA5C4E6"
+	},
+	"75": {
+		"_class": "MSAttributedStringKey",
+		"size": "{42, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Hover",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "8F2656B0-628C-401B-819D-08EB4B872BEE"
+	},
+	"124": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 129}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Branding &\nwebsite design agency",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 32,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 40 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "00B2BB80-FDFE-426B-88ED-A085569B7FF1"
+	},
+	"29": {
+		"_class": "MSAttributedStringKey",
+		"size": "{182, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "New Majestic Hotel",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 18,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "58DD96C1-1F99-4DAA-AD58-CE21ED747A44"
+	},
+	"78": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 80}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Let's build something great together.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 37,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "04BF9620-E646-4ACC-A541-35EC9674E807"
+	},
+	"127": {
+		"_class": "MSAttributedStringKey",
+		"size": "{92, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "01",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "79A87D00-CE9C-4E9B-ACD8-987F3C9C81A0"
+	},
+	"32": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 120}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Our approach for creating a winning brand",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 41,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "539E907A-DE92-4F04-B35A-3E453A5EA87F"
+	},
+	"81": {
+		"_class": "MSAttributedStringKey",
+		"size": "{281, 125}",
+		"string": {
+			"_class": "attributedString",
+			"string": "“A well-crafted design strategy consistently produces desired outcomes and brand awareness. We are firm believers that success  lies in creative collaboration with our clients.”",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 177,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1CBECD2B-DA10-4366-858A-FCB230F83EE2"
+	},
+	"130": {
+		"_class": "MSAttributedStringKey",
+		"size": "{29, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "HSL",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "130C37C5-D022-40BF-B720-E92086EC5EB5"
+	},
+	"35": {
+		"_class": "MSAttributedStringKey",
+		"size": "{42, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Hover",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "CCA916BF-03BC-4AA7-B88B-C4A662387301"
+	},
+	"84": {
+		"_class": "MSAttributedStringKey",
+		"size": "{76, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "#FFFFFF",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "B800675D-C2B6-46AC-B4B7-2F91F55B3AB4"
+	},
+	"133": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "0F97E0E7-7C4B-4EC4-B219-3B53CA8BDE13"
+	},
+	"38": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "137DDA0C-6368-4B9D-99C8-4A66B5E56264"
+	},
+	"87": {
+		"_class": "MSAttributedStringKey",
+		"size": "{29, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "HSL",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7E223245-6622-4EB8-B695-19636D595FE9"
+	},
+	"136": {
+		"_class": "MSAttributedStringKey",
+		"size": "{100, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "02",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "711A4BD0-626B-40AD-8400-D83875499837"
+	},
+	"41": {
+		"_class": "MSAttributedStringKey",
+		"size": "{635, 133}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Let's build something great together.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 37,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "4797B64A-7313-4764-A71D-E82B862BDB54"
+	},
+	"90": {
+		"_class": "MSAttributedStringKey",
+		"size": "{281, 80}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Design is\nstrategic.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 6,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				},
+				{
+					"_class": "stringAttribute",
+					"location": 6,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "DD3C4786-C6E1-4081-B606-8CF22578E878"
+	},
+	"139": {
+		"_class": "MSAttributedStringKey",
+		"size": "{29, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "HSL",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1EB61A05-85A5-495E-BA99-0C709B3DAD68"
+	},
+	"44": {
+		"_class": "MSAttributedStringKey",
+		"size": "{60, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Service",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "903E7BDA-2D53-4E58-AA67-5D229EC2ACDD"
+	},
+	"93": {
+		"_class": "MSAttributedStringKey",
+		"size": "{103, 18}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "5FFAEC64-6849-495D-9C1C-B33651490CE1"
+	},
+	"142": {
+		"_class": "MSAttributedStringKey",
+		"size": "{42, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Hover",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "4649B4B3-F7CF-4367-BB2F-BD8DEF802053"
+	},
+	"47": {
+		"_class": "MSAttributedStringKey",
+		"size": "{52, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Default",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "5F158595-8659-4630-AE7A-AC4D3327FFAC"
+	},
+	"96": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "249, 79, 79",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 11,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "12C43A2D-7975-4008-A23C-05C8CBCA2EFF"
+	},
+	"1": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "71AA7695-7CAA-48CE-8D91-E98828C33BC4"
+	},
+	"145": {
+		"_class": "MSAttributedStringKey",
+		"size": "{97, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Learn More",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "A7361E32-558F-4E44-9352-B5888E985682"
+	},
+	"50": {
+		"_class": "MSAttributedStringKey",
+		"size": "{71, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "#191921",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "E999B2F8-67BC-467D-9D00-2B2BCA5C4B57"
+	},
+	"99": {
+		"_class": "MSAttributedStringKey",
+		"size": "{97, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Learn More",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "0AD9E029-10DC-439D-8A0D-39AF3D5E677E"
+	},
+	"4": {
+		"_class": "MSAttributedStringKey",
+		"size": "{635, 133}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Let's build something great together.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 37,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "0F1F6D37-369F-4E82-86A0-6B94CEC5A89D"
+	},
+	"148": {
+		"_class": "MSAttributedStringKey",
+		"size": "{101, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "03",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1DA9739A-A162-478A-A249-4C7EDB82BAEF"
+	},
+	"53": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 128}",
+		"string": {
+			"_class": "attributedString",
+			"string": "“A well-crafted design strategy consistently produces desired outcomes and brand awareness. We are firm believers that success lies in creative collaboration with our clients.”",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 176,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "676B2BF6-C302-4344-A8D0-BDEF9B0ADDB8"
+	},
+	"102": {
+		"_class": "MSAttributedStringKey",
+		"size": "{62, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Projects",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Bold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7456E01E-2611-422C-9B59-3F2D13975785"
+	},
+	"7": {
+		"_class": "MSAttributedStringKey",
+		"size": "{65, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Button 2",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "AA82B42D-ED0F-4DF2-ADB7-D97E32104E57"
+	},
+	"151": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Keeping the brand design unique and meaningful helps in communicating the brand’s timeless value effectively.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 109,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C3D2183D-FDE6-4F09-95FF-9BBEAB8393CF"
+	},
+	"56": {
+		"_class": "MSAttributedStringKey",
+		"size": "{540, 176}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Lorem Ipsum Dolor Sit",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 21,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "F129D6A5-8A39-474A-BF20-3058A2F1FB07"
+	},
+	"105": {
+		"_class": "MSAttributedStringKey",
+		"size": "{339, 75}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand strategy is critical for long-term success. Outshining competitors and capturing the target audience are key.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 115,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "0C417D2E-A1E6-4BBF-997A-03175630CADE"
+	},
+	"10": {
+		"_class": "MSAttributedStringKey",
+		"size": "{100, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "02",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "815744B1-90B9-4893-BA9F-6747269650C3"
+	},
+	"154": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand strategy is critical for long-term success. Outshining competitors and capturing the target audience are key.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 115,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1EDB1822-4C28-4248-ACCD-AC8C2CBA69B3"
+	},
+	"59": {
+		"_class": "MSAttributedStringKey",
+		"size": "{540, 192}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Our approach for creating a winning brand",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 41,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "6ED3C2F6-1080-4089-A8DE-56F7B9C05C5C"
+	},
+	"108": {
+		"_class": "MSAttributedStringKey",
+		"size": "{334, 25}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "DE34E98D-A9C8-47BB-97BE-EB529ABEE50B"
+	},
+	"13": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 133}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand naming & guidelines",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 25,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "57DDD866-46C3-4900-981F-F7700B4996C9"
+	},
+	"157": {
+		"_class": "MSAttributedStringKey",
+		"size": "{306, 25}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Strategy",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9EDFC283-54BB-4675-A51F-ACE2CE90F186"
+	},
+	"62": {
+		"_class": "MSAttributedStringKey",
+		"size": "{31, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "RGB",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "6496507A-60D0-4C2A-9257-15E7945429D9"
+	},
+	"111": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand strategy is critical for long-term success. Outshining competitors and capturing the target audience are key.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 115,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "B7FABDC1-F8E0-4BE0-8F36-7CED40A002BE"
+	},
+	"16": {
+		"_class": "MSAttributedStringKey",
+		"size": "{92, 88}",
+		"string": {
+			"_class": "attributedString",
+			"string": "01",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 2,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "5DE0AA55-8215-4140-87C0-52CB6881EBDE"
+	},
+	"frames": {
+		"236D3EF5-A123-42ED-8F33-822796981A61": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 92, 88}" },
+		"B5EA69C6-4D24-460E-B57E-BCF53733F8B1": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 110, 19}" },
+		"84E69428-D6CD-4283-B9CD-797C5D8C1BDF": { "_class": "NSValue", "type": "rect", "value": "{44, 0, 52, 32}" },
+		"CD2FA32F-163F-40D0-BCFF-A515774F0AAF": { "_class": "NSValue", "type": "rect", "value": "{0, 312, 540, 96}" },
+		"D5AEE76A-7978-4352-8C98-8355214104C7": {
+			"_class": "NSValue",
+			"type": "rect",
+			"value": "{165, 3710, 635, 133}"
+		},
+		"590F540B-DDCA-4AA4-9600-98C3F3EFD3D6": { "_class": "NSValue", "type": "rect", "value": "{24, 16, 86, 22}" },
+		"0DA875A9-DA34-49E1-880A-06CF67A1F029": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 31, 32}" },
+		"67857D4B-F964-444D-8D72-0EEEB171036D": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 65, 19}" },
+		"12E61B8C-D039-4B40-8996-EB60BDF09450": { "_class": "NSValue", "type": "rect", "value": "{0, 176, 445, 128}" },
+		"38C228AC-1169-4841-AD11-48F4C7ED9A39": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 46, 32}" },
+		"5C7CB048-7462-4551-BD76-E5ACF10B558C": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 100, 88}" },
+		"CF893226-2122-4714-9ED2-FC203FC2A47A": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 101, 88}" },
+		"CCA02F12-06E3-476D-AC6F-A7BB973EB38C": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 65, 19}" },
+		"18FCA17D-9D38-45D3-9733-E005A50555ED": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 133}" },
+		"9D5E67C0-C54A-44AF-97B2-447105C019F0": { "_class": "NSValue", "type": "rect", "value": "{40, 25, 97, 22}" },
+		"A926BA04-2CD1-470C-B92A-02773ADF2DBE": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"C1724F5A-F418-48D2-A45C-8CE340C87F60": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 92, 88}" },
+		"E8C7723D-5CE5-46A8-A8CC-C6007DF50CF4": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 32}" },
+		"F11CCFF7-D62A-412F-94DF-BE8ADEF41D2C": { "_class": "NSValue", "type": "rect", "value": "{40, 25, 97, 22}" },
+		"F8EC2FF6-88CF-421E-BC35-249AC6A2128D": { "_class": "NSValue", "type": "rect", "value": "{0, 32, 540, 32}" },
+		"495EE9C1-014F-4DA1-ACDC-5AEBA3D80A5D": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 334, 25}" },
+		"7BDBFEA1-9192-4C1A-947E-307BA2DC36DE": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 162, 20}" },
+		"4842EED2-9FF3-4EE1-983B-70344AC34131": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 306, 25}" },
+		"CA8E9BE5-0AB4-4F44-A740-11DCDE171A7F": { "_class": "NSValue", "type": "rect", "value": "{163, 0, 61, 32}" },
+		"A023C01A-D9C9-4A86-8BE8-6A7AED1F14FC": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 216, 32}" },
+		"017B0194-5E6E-459C-81AB-8408A9D3B596": { "_class": "NSValue", "type": "rect", "value": "{40, 25, 97, 22}" },
+		"0D12302C-C441-458E-8627-B01981C892D0": { "_class": "NSValue", "type": "rect", "value": "{133, 0, 57, 32}" },
+		"29F3A71F-ACCE-427B-B753-36C993EF5933": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 128}" },
+		"D8F8B878-43CF-49D7-9BF9-101568849649": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"B2D0F71D-D3FA-42C6-AEEF-6AC99438C8C7": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 182, 32}" },
+		"551FEFA2-34FF-4FD5-98E6-583B2C3DDB40": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"76D27B20-AAD0-4CF1-ABDC-7635EC39C486": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 398, 181}" },
+		"938F6FFA-417A-4BAB-84D1-BF2600BCE651": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 120}" },
+		"AE7B87FF-614D-49E5-9163-875A9F3605F8": { "_class": "NSValue", "type": "rect", "value": "{112, 32, 104, 32}" },
+		"6709B081-0CD0-4CBF-B47D-1D093D7EB325": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 334, 25}" },
+		"6FA5652D-D11F-4FA5-A9DF-65219254212B": { "_class": "NSValue", "type": "rect", "value": "{619, 178, 42, 32}" },
+		"73CB205D-758A-4401-8F0F-5687DF171745": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 410, 133}" },
+		"25E84CC6-FFE4-4810-BBDE-B0357045243D": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 333, 32}" },
+		"7E1486AB-F8EC-4E7F-BA49-DAEB2A4AB59F": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 32}" },
+		"DC77B1E0-A558-4576-9486-A898E031E339": { "_class": "NSValue", "type": "rect", "value": "{0, 56, 445, 96}" },
+		"5B49848D-5A21-42C9-81A8-D2A038110F39": { "_class": "NSValue", "type": "rect", "value": "{0, 56, 445, 96}" },
+		"7EF991A9-BEEE-4B16-B80F-1516E3A8D9DD": {
+			"_class": "NSValue",
+			"type": "rect",
+			"value": "{165, 3710, 635, 133}"
+		},
+		"2B40F17C-4239-4E1D-9B8A-530243EEE9E3": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 281, 80}" },
+		"99786B5F-9A82-4A26-A3BC-F36097B624A6": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 171, 32}" },
+		"0AD357C2-2EC1-449C-B232-7058C330DFA7": { "_class": "NSValue", "type": "rect", "value": "{96, 88, 60, 32}" },
+		"238CE2AB-C414-4C0E-873E-75A4E31B51F1": {
+			"_class": "NSValue",
+			"type": "rect",
+			"value": "{165, 2162, 540, 192}"
+		},
+		"EA65F6B5-7B11-4E6D-B15F-BE12ABCD8063": { "_class": "NSValue", "type": "rect", "value": "{100, 32, 52, 32}" },
+		"461D1C41-F75C-42C4-94AD-6A6AAC46BAD0": { "_class": "NSValue", "type": "rect", "value": "{614, 0, 52, 32}" },
+		"31A1216A-DE17-45F1-AA72-00D45D16B6AD": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 40}" },
+		"45123022-7BA6-40A1-BD82-CC3E9B49D0C7": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 110, 19}" },
+		"AB8490FC-C207-45EB-A3B3-0EED45CB6808": { "_class": "NSValue", "type": "rect", "value": "{24, 96, 71, 22}" },
+		"BA98D557-7277-4466-B2A4-6E63951EA083": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 110, 19}" },
+		"7AA9010F-26D9-4125-93B8-F546ECB2529A": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 124, 22}" },
+		"509DE4A6-B482-44F4-8F39-F14127C3C722": { "_class": "NSValue", "type": "rect", "value": "{0, 176, 445, 128}" },
+		"04A0A8F4-E1F7-47AB-9087-3824C192515C": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"8B1A0F8C-7169-423D-8A9A-1C06B96785CC": { "_class": "NSValue", "type": "rect", "value": "{67, 32, 104, 32}" },
+		"B21BE059-2444-4DCC-836D-5907F8824246": { "_class": "NSValue", "type": "rect", "value": "{0, 32, 540, 176}" },
+		"493DC7C3-69D7-46DF-ABD6-DA63A4D1922F": { "_class": "NSValue", "type": "rect", "value": "{899, 0, 52, 32}" },
+		"36B7F56C-5EC9-4208-A7DC-1D6689053B29": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"26BF7FE8-A488-4E59-BECA-DACF53C794F7": {
+			"_class": "NSValue",
+			"type": "rect",
+			"value": "{165, 2162, 540, 192}"
+		},
+		"5B4E9B82-92DE-4918-8F62-F53307C523C5": { "_class": "NSValue", "type": "rect", "value": "{34, 25, 72, 22}" },
+		"8F430F55-4735-4F9A-8C0D-F2F7FA1507DD": { "_class": "NSValue", "type": "rect", "value": "{0, 144, 327, 100}" },
+		"16E5BDB0-804D-48E6-8D6A-44833E17015F": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 31, 32}" },
+		"00B20210-7610-410D-82C4-AA145D6AA1C4": { "_class": "NSValue", "type": "rect", "value": "{24, 16, 51, 22}" },
+		"BC46338F-CA27-4381-954E-3BC7385FCF6D": { "_class": "NSValue", "type": "rect", "value": "{0, 40, 339, 75}" },
+		"F6E5DC88-6A59-4C14-8E72-DD18F994642D": { "_class": "NSValue", "type": "rect", "value": "{112, 32, 104, 32}" },
+		"CE6D93F6-4AAB-4E1D-B7A8-96456B47A8F5": { "_class": "NSValue", "type": "rect", "value": "{24, 96, 78, 22}" },
+		"CA170F46-9B4E-4ABB-B17C-A4FFFA129C9E": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 92, 88}" },
+		"09711C5D-1D69-4362-A0C1-232DC7B2FBDD": {
+			"_class": "NSValue",
+			"type": "rect",
+			"value": "{39, 1568, 281, 120}"
+		},
+		"2E7411C1-7D9A-4CD7-8EED-51AE441A8192": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 80}" },
+		"5ED52069-1AA3-44F9-9A34-66BCDB963FC4": { "_class": "NSValue", "type": "rect", "value": "{0, 40, 311, 75}" },
+		"499EC99C-1767-4A3A-8588-79957A1402AD": { "_class": "NSValue", "type": "rect", "value": "{75, 20, 87, 20}" },
+		"B1C7FBE8-105F-4414-9525-E282311BB72A": { "_class": "NSValue", "type": "rect", "value": "{24, 16, 32, 22}" },
+		"4B70C2A4-28EE-412C-BB4D-1F1412702FDE": { "_class": "NSValue", "type": "rect", "value": "{45, 23, 110, 19}" },
+		"ADB743E6-905C-4F74-BE53-0492F7662A87": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"DE852D0B-2E49-4518-9928-070D5BF587C7": { "_class": "NSValue", "type": "rect", "value": "{334, 178, 42, 32}" },
+		"0A6A40EA-C7E6-4A0A-83ED-85EF3426000E": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 32}" },
+		"EAE10C78-67C7-4F13-AC1B-F96546FBC935": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 74, 22}" },
+		"EC5E241A-F44F-43D4-B9B1-F395A530466D": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 80}" },
+		"1B3F83D0-2F7F-4E07-937A-AB2AAB647D3B": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 133}" },
+		"8FB7B3A5-2743-4F9D-B562-5DE1A00B723A": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 32}" },
+		"EFCC5D92-99A2-4843-978A-AD069089A761": {
+			"_class": "NSValue",
+			"type": "rect",
+			"value": "{101, 112, 281, 125}"
+		},
+		"50B11E36-17C2-4CA4-ADBE-274F852971D4": { "_class": "NSValue", "type": "rect", "value": "{0, 200, 398, 75}" },
+		"A4AB3A89-9E43-4CE8-B04F-0745E89564EC": { "_class": "NSValue", "type": "rect", "value": "{34, 25, 72, 22}" },
+		"4A1C969A-CB7F-43CD-8547-C2E991F9B10D": { "_class": "NSValue", "type": "rect", "value": "{24, 96, 76, 22}" },
+		"EC0E2ED4-5067-4CFE-9F56-0570C261BD61": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 730, 273}" },
+		"17D4729F-769A-42E4-8FCC-F63C9F50BDF0": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 162, 20}" },
+		"C320DC3B-FFF8-4B65-BEE0-7927BC1391F5": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 29, 32}" },
+		"C650E073-F1B0-4F10-AC14-823BDE4BC1DB": { "_class": "NSValue", "type": "rect", "value": "{247, 0, 383, 64}" },
+		"1B3305A3-911F-436A-A2B1-192723C65FA3": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 124, 22}" },
+		"D0BCB11C-CC93-433A-A4AC-F5F9AE8CD58C": { "_class": "NSValue", "type": "rect", "value": "{101, 0, 281, 80}" },
+		"85B1E7CA-0DDA-41B8-88FB-614D77C30785": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 46, 32}" },
+		"E44837EF-2795-4A78-A097-74A3C1351E24": { "_class": "NSValue", "type": "rect", "value": "{0, 40, 311, 75}" },
+		"E0A973E6-C5BE-462C-90AD-662BE28FCFC6": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 103, 18}" },
+		"9BEDCB68-07DC-4319-9A96-6510835FFAAA": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 101, 88}" },
+		"83138A37-3CA5-4042-BDCA-3ECF699D4A5E": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 410, 133}" },
+		"0DAA8120-E3DF-4422-97A7-4E8AFC30E2D2": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"BFA80340-8C0E-4CBE-983F-4164E895B35C": { "_class": "NSValue", "type": "rect", "value": "{63, 0, 50, 32}" },
+		"D0C882B3-E48F-46D7-8980-8C7408AD2C80": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 31, 32}" },
+		"15FAE930-C3BD-4211-A45F-2270F54E6110": { "_class": "NSValue", "type": "rect", "value": "{40, 25, 97, 22}" },
+		"D87BA7FC-93C4-4BFC-AE07-49C4B303F697": { "_class": "NSValue", "type": "rect", "value": "{0, 312, 540, 96}" },
+		"22995306-7734-4A74-9D55-1DAA5D4AC4DA": { "_class": "NSValue", "type": "rect", "value": "{329, 0, 52, 32}" },
+		"A6BA50E2-20CD-44F5-B720-BA02C0E49087": { "_class": "NSValue", "type": "rect", "value": "{163, 0, 62, 32}" },
+		"FE9615B1-F7E1-4EEA-A49A-F6118611ACF6": { "_class": "NSValue", "type": "rect", "value": "{75, 20, 87, 20}" },
+		"C9813046-F88B-460E-A655-DA76BDDB3545": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 110, 19}" },
+		"0DA9C88D-ABB8-41EF-860D-72802A7E4784": { "_class": "NSValue", "type": "rect", "value": "{0, 40, 339, 75}" },
+		"784F9442-A85F-4AC0-B862-2D69B8D7E01E": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 103, 18}" },
+		"5BA6FF54-F895-4A55-9C4C-D4E45304FD1D": { "_class": "NSValue", "type": "rect", "value": "{24, 96, 86, 22}" },
+		"1090939A-7C48-4AB7-95C4-6610A59FCD65": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 334, 25}" },
+		"ADFCADD3-BF94-4DD6-8409-53740C9BFF5E": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 100, 88}" },
+		"DAF7A0FA-0CFC-4211-A2C4-D8E40B600B6E": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 32}" },
+		"8FDEB6E8-AF50-4544-8C6E-23D8474C2A7A": { "_class": "NSValue", "type": "rect", "value": "{0, 56, 445, 96}" },
+		"FF53E95E-033D-4DCC-8144-995034756D93": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 334, 32}" },
+		"69B956C5-C9B1-4781-89E0-99AC6D59EA29": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 74, 22}" },
+		"85CD7560-D03D-4100-8BEA-9A373699D88B": { "_class": "NSValue", "type": "rect", "value": "{78, 0, 53, 32}" },
+		"4F4478D4-39B9-42B9-A9A3-9B559CEF4934": { "_class": "NSValue", "type": "rect", "value": "{0, 64, 327, 100}" },
+		"84F72516-4E1C-4067-B36E-D46882EDE4F3": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 103, 18}" },
+		"ABA6BA8D-BFF6-4D8B-B71E-F43477892678": { "_class": "NSValue", "type": "rect", "value": "{45, 23, 110, 19}" },
+		"3C573FA0-A35C-479A-A6F4-A5F52442095E": { "_class": "NSValue", "type": "rect", "value": "{0, 32, 540, 192}" },
+		"23EC66A0-D390-4AD0-974B-910D9296E46F": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 398, 80}" },
+		"A287AB2A-50E1-4911-B37E-E5058D7B956D": { "_class": "NSValue", "type": "rect", "value": "{0, 56, 445, 96}" },
+		"C64F4B4D-0C9F-4C76-88C9-E0E9A4725016": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 101, 88}" },
+		"F3836875-123C-4EA5-9506-D5AB5CB66383": { "_class": "NSValue", "type": "rect", "value": "{92, 144, 68, 32}" },
+		"DB6023DA-B55B-48F1-8010-DA739175281B": { "_class": "NSValue", "type": "rect", "value": "{24, 16, 73, 22}" },
+		"AF527D5A-E46A-4B33-842C-CF643F0B4207": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 129}" },
+		"A1C2736C-EBD3-4E83-B998-4C49C8ABF6C9": { "_class": "NSValue", "type": "rect", "value": "{0, 144, 327, 100}" },
+		"C4DA7F1E-AE37-46D3-9D73-D2DF73BF6CE9": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 40}" },
+		"4DCA95CF-6657-4CD5-85F2-CD6443132B55": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 92, 88}" },
+		"41E0EAE7-91CD-4A84-B5D0-9A56AD7CE10B": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 32}" },
+		"3C7DA65A-7546-4495-9895-2B94AB9AA758": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 31, 32}" },
+		"10DD9518-E831-40EA-BCBE-0BD33F5BD023": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 29, 32}" },
+		"E40DB9AD-4E7E-4D1C-B1BB-596D5765AE1A": { "_class": "NSValue", "type": "rect", "value": "{49, 178, 42, 32}" },
+		"6119CFB3-BD91-4CBC-8EB9-E90683CCE971": { "_class": "NSValue", "type": "rect", "value": "{78, 0, 53, 32}" },
+		"2DC79DB5-847C-4FD9-84D6-C208F08F4B2D": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 110, 19}" },
+		"F618F795-4A4A-416A-BD30-5356D0DF5D88": { "_class": "NSValue", "type": "rect", "value": "{0, 40, 339, 75}" },
+		"5D224009-7AE6-4604-90E9-07FDCFFF76C8": { "_class": "NSValue", "type": "rect", "value": "{0, 56, 445, 512}" },
+		"4EAEA905-1A97-45F8-AFAE-EDCA5762B61E": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 100, 88}" },
+		"DB5BDA4F-A36D-4F76-8FA8-5CAFF103C17D": { "_class": "NSValue", "type": "rect", "value": "{0, 64, 327, 100}" },
+		"FD54FB7C-FA91-4684-B8C1-151BF441E1F4": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 43, 32}" },
+		"5C4433B0-7916-4C16-9FA9-C5AC76613974": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 29, 32}" },
+		"19A62670-1339-46E3-A2E6-4F3F9526D842": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 100, 88}" },
+		"837E32C5-C1DD-4AEA-8EC6-C0F0447E9ECD": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 730, 273}" },
+		"0B5D544C-23C7-48D3-BA61-690C685CE340": { "_class": "NSValue", "type": "rect", "value": "{904, 178, 42, 32}" },
+		"7E8990F5-639B-49EF-9592-577BD56808D9": { "_class": "NSValue", "type": "rect", "value": "{0, 40, 311, 75}" },
+		"0C3960D1-A18A-44D6-9D89-C2891581A78C": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 327, 120}" },
+		"1EFDC359-D485-4E91-83EE-D861EA468C8B": { "_class": "NSValue", "type": "rect", "value": "{40, 25, 97, 22}" },
+		"5C159C67-7B98-41ED-A678-6AE337FF7A61": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 110, 19}" },
+		"6E9E1180-FA9D-448F-938C-CCDFD14BA388": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 216, 32}" },
+		"4FF16FE3-77BC-42D1-8173-FEA6CA1BCEFA": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 101, 88}" },
+		"0A8B1266-4372-4C0C-8FEE-92E703361930": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 306, 25}" },
+		"2CFF9629-65BA-4213-B72D-C6AF163E164C": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 32}" },
+		"333C20BF-E392-4121-A903-70C6EE4F0F33": { "_class": "NSValue", "type": "rect", "value": "{0, 56, 445, 96}" },
+		"41F2B996-8FE8-4A6E-9C7F-0DBD8C118046": { "_class": "NSValue", "type": "rect", "value": "{78, 32, 104, 32}" },
+		"3F7D4CD1-B5BD-4A37-8AFD-D6E599221B6D": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 333, 32}" },
+		"077CCCA1-DE71-4F0A-A768-B2550CA0FE1D": { "_class": "NSValue", "type": "rect", "value": "{0, 56, 445, 96}" },
+		"A7B27312-8712-480E-85D1-1DA7A1FB9581": { "_class": "NSValue", "type": "rect", "value": "{95, 0, 160, 32}" },
+		"D688DD47-F18F-494D-B480-C181460B1D6A": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 445, 133}" },
+		"F8E18377-6529-4B72-B537-90849D05CAFE": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 306, 25}" },
+		"915FAD68-552D-432C-AE90-94ECFC0D1543": { "_class": "NSValue", "type": "rect", "value": "{0, 0, 29, 32}" }
+	},
+	"65": {
+		"_class": "MSAttributedStringKey",
+		"size": "{104, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "2019 Project",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "D312960A-952D-49A8-B0F4-94E5489FE8DD"
+	},
+	"114": {
+		"_class": "MSAttributedStringKey",
+		"size": "{53, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Service",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "85C94279-0BE4-422C-B940-E922474E90F7"
+	},
+	"19": {
+		"_class": "MSAttributedStringKey",
+		"size": "{540, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Lorem Ipsum Dolor Sit",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 21,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "B8B079CF-267E-469E-88F7-ECF8A7D66245"
+	},
+	"68": {
+		"_class": "MSAttributedStringKey",
+		"size": "{281, 120}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Our approach for creating a winning brand",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 41,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "2EDCE391-1E27-4C31-AAED-816AE1355A04"
+	},
+	"117": {
+		"_class": "MSAttributedStringKey",
+		"size": "{110, 19}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7DB65F24-3B18-42BD-83A6-817CE2970A9A"
+	},
+	"22": {
+		"_class": "MSAttributedStringKey",
+		"size": "{306, 25}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Web Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "371DB991-7B6A-4E60-A1ED-5C4DFA28185F"
+	},
+	"71": {
+		"_class": "MSAttributedStringKey",
+		"size": "{87, 20}",
+		"string": {
+			"_class": "attributedString",
+			"string": "2019 Project",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 20,
+							"minimumLineHeight": 20,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C00806BA-AEB0-43FD-A941-A7B7C07EB598"
+	},
+	"120": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "A beautifully crafted website is the best tool for brand awareness, and ultimately results in increased revenues.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 113,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "55E9D919-4235-417F-952C-7AE52622DCF6"
+	},
+	"25": {
+		"_class": "MSAttributedStringKey",
+		"size": "{97, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Learn More",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7D9517EA-EB9A-4E0C-8481-87676101B571"
+	},
+	"74": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "0°, 93%, 64%",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "9C7F7639-AAAF-4B9D-9D5A-C3E95FC784EB"
+	},
+	"123": {
+		"_class": "MSAttributedStringKey",
+		"size": "{73, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "BG Black",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "437DBDE2-4E34-475E-B887-AF0516A527A1"
+	},
+	"28": {
+		"_class": "MSAttributedStringKey",
+		"size": "{160, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "0°, 0%, 100%",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 12,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "A6D8EB67-05D2-43E0-912A-54041779BEC6"
+	},
+	"77": {
+		"_class": "MSAttributedStringKey",
+		"size": "{74, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Button 3",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "86EC92AB-BC18-4824-99B7-434FB3894A12"
+	},
+	"126": {
+		"_class": "MSAttributedStringKey",
+		"size": "{327, 40}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Design is strategic.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 6,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				},
+				{
+					"_class": "stringAttribute",
+					"location": 6,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 32 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 40,
+							"minimumLineHeight": 40,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "424F7DA9-05EB-40D5-8D4C-F332EF734540"
+	},
+	"31": {
+		"_class": "MSAttributedStringKey",
+		"size": "{398, 181}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Branding &\nwebsite design agency",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 32,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 56,
+							"minimumLineHeight": 56,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "68234356-6FB1-40D4-8D11-5FF238364E5A"
+	},
+	"80": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Web Design",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 10,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "124517D0-BC86-4991-B6BE-65ACE5E58FCC"
+	},
+	"129": {
+		"_class": "MSAttributedStringKey",
+		"size": "{31, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "RGB",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 3,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "32DD88C1-5CA1-433C-A317-1203D3A161D2"
+	},
+	"34": {
+		"_class": "MSAttributedStringKey",
+		"size": "{334, 25}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Brand Strategy",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "7C104142-7D48-43A7-97B0-2B701FDA3F45"
+	},
+	"83": {
+		"_class": "MSAttributedStringKey",
+		"size": "{72, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Button 1",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 8,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C1902165-D24D-4598-A16B-06599046296C"
+	},
+	"132": {
+		"_class": "MSAttributedStringKey",
+		"size": "{53, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Service",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 7,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 16 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "8684FA3B-3062-4539-9135-AF28C3C324FF"
+	},
+	"37": {
+		"_class": "MSAttributedStringKey",
+		"size": "{333, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "H3 - Commissioner - Extra Bold - 20px - 32px line",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 49,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "AD802087-C0FC-435D-9CA2-1C5497B8F349"
+	},
+	"86": {
+		"_class": "MSAttributedStringKey",
+		"size": "{162, 20}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Lean Product Roadmap",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 20,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 20,
+							"minimumLineHeight": 20,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "1B42CAC6-66B9-428E-9C6A-833912F2872C"
+	},
+	"135": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 512}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.\n\nSed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 803,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "96262F69-F4B2-4A3E-8938-BB26088E7342"
+	},
+	"40": {
+		"_class": "MSAttributedStringKey",
+		"size": "{445, 96}",
+		"string": {
+			"_class": "attributedString",
+			"string": "A beautifully crafted website is the best tool for brand awareness, and ultimately results in increased revenues. ",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 114,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "3C79A04C-5723-4FC4-B600-F1B6DC94698C"
+	},
+	"89": {
+		"_class": "MSAttributedStringKey",
+		"size": "{124, 22}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Schedule a Call",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 15,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.5769566977896341,
+							"green": 0.5769566977896341,
+							"red": 1,
+							"swatchID": "09DEC48E-99C5-4DD8-8515-642F525E86B0"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": { "_class": "paragraphStyle", "alignment": 0 },
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "76CA60F4-122E-457B-B1EA-4FE3FAFF556D"
+	},
+	"138": {
+		"_class": "MSAttributedStringKey",
+		"size": "{43, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "About",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "F7F92BC0-8BB5-4243-B326-DBF9416F9B99"
+	},
+	"43": {
+		"_class": "MSAttributedStringKey",
+		"size": "{171, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Crypto Dashboard",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 16,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 20 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 1
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "5D50BDAD-A8D1-4E14-A1AB-800CBC0ED312"
+	},
+	"92": {
+		"_class": "MSAttributedStringKey",
+		"size": "{311, 75}",
+		"string": {
+			"_class": "attributedString",
+			"string": "A beautifully crafted website is the best tool for brand awareness, and ultimately results in increased revenues.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 113,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 15 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 25,
+							"minimumLineHeight": 25,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "E316494D-6C5C-4E0A-8EDB-8278247AED93"
+	},
+	"141": {
+		"_class": "MSAttributedStringKey",
+		"size": "{730, 273}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Branding &\nwebsite design agency",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 32,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 80 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0,
+							"green": 0,
+							"red": 0
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 88,
+							"minimumLineHeight": 88,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "CAFB3833-121B-4DD4-99EF-205E4D21BE03"
+	},
+	"46": {
+		"_class": "MSAttributedStringKey",
+		"size": "{52, 32}",
+		"string": {
+			"_class": "attributedString",
+			"string": "About",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 5,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-Regular", "size": 18 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 32,
+							"minimumLineHeight": 32,
+							"alignment": 2
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "C40C08C7-19D1-478B-9A6E-BDE383371F34"
+	},
+	"95": {
+		"_class": "MSAttributedStringKey",
+		"size": "{410, 133}",
+		"string": {
+			"_class": "attributedString",
+			"string": "Design is strategic.",
+			"attributes": [
+				{
+					"_class": "stringAttribute",
+					"location": 0,
+					"length": 6,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 0.3115648340851268,
+							"green": 0.3115648340851268,
+							"red": 0.9759141120357789,
+							"swatchID": "3BE4B832-44A3-46D2-BF37-F6AB868F6C99"
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				},
+				{
+					"_class": "stringAttribute",
+					"location": 6,
+					"length": 14,
+					"attributes": {
+						"MSAttributedStringFontAttribute": {
+							"_class": "fontDescriptor",
+							"attributes": { "name": "Commissioner-ExtraBold", "size": 56 }
+						},
+						"MSAttributedStringColorAttribute": {
+							"_class": "color",
+							"alpha": 1,
+							"blue": 1,
+							"green": 1,
+							"red": 1
+						},
+						"textStyleVerticalAlignmentKey": 0,
+						"paragraphStyle": {
+							"_class": "paragraphStyle",
+							"maximumLineHeight": 64,
+							"minimumLineHeight": 64,
+							"alignment": 0
+						},
+						"kerning": 0
+					}
+				}
+			]
+		},
+		"styleID": "777009DB-D023-42BD-AA7D-A6F95051D7F4"
+	}
+}

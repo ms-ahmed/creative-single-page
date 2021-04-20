@@ -1,21 +1,21 @@
-/node_modules
+node_modules
 /dist
-/creative
+creatif/creative-single-page-site/
 
-.vscode
+vscode
 
-.cache
+cache
 
-.DS_Store
+DS_Store
 
-.user.json
 
-.document.json
 
-.package-lock.json
+document.json
 
-.meta.json
+package-lock.json
 
-.README_.md
+
+
+README_.md
 
 design-copyrighted

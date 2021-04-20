@@ -1,5 +1,5 @@
-node_modules
-
+/node_modules
+/dist
 creative
 
 .vscode
@@ -8,14 +8,13 @@ creative
 
 .DS_Store
 
-.user.json
 
 .document.json
 
-package-lock.json
+.package-lock.json
 
 meta.json
 
-README_.md
+.README_.md
 
-design-copyrighted
+.design-copyrighted

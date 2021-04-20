@@ -27,3 +27,13 @@ If you ever need to test the responsivness, please select actual devices, like M
 You can see the final result :
 
         https://creatif-simple-project.netlify.app
+
+# To run the app locally
+
+npm start
+
+The app runs on localhost:1234
+
+# To build
+
+npm run build

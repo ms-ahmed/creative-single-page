@@ -1,5 +1,7 @@
 node_modules
 
+creative
+
 .vscode
 
 .cache
@@ -14,9 +16,6 @@ package-lock.json
 
 meta.json
 
-.README_.md
+README_.md
 
-.page
-.MACOSX
-._creative-single-page-site.sketch
-.MACOSX/creative-single-page-site
+design-copyrighted
